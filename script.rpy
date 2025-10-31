@@ -1,4 +1,4 @@
-﻿$ gg = Character('Вы', color="#9751d6", what_color="#5e13a0")
+﻿$ gg = Character(u'Вы', color="#9751d6", what_color="#5e13a0")
 
 label start:
 
@@ -6,8 +6,8 @@ label start:
 
     show eileen happy
 
-    e "Вы создали новую игру Ren'Py."
+    gg "Мы лохи"
 
-    e "Добавьте сюжет, изображения и музыку и отправьте её в мир!"
+    gg "Система Витязь - я придумал вы ебитесь"
 
     return
