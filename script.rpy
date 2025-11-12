@@ -1,9 +1,9 @@
 init: 
-  $ Ak = Character(u'Акина', color="#9751d6", what_color="#5e13a0")
-  $ An = Character(u'Аника', color="#8751d6", what_color="#5e13a0")
-  $ K = Character(u'Карин', color="#8751d6", what_color="#5e13a0")
-  $ Kf = Character(u'Подружка 1', color="#8751d6", what_color="#5e13a0")
-  $ Kff = Character(u'Подружка 2', color="#8751d6", what_color="#5e13a0")
+  $ Ak = Character(u'Акина', color="#9751d6", what_color="#98c8f0")
+  $ An = Character(u'Аника', color="#8751d6", what_color="#0a5491")
+  $ K = Character(u'Карин', color="#8751d6", what_color="#d41818")
+  $ Kf = Character(u'Подружка 1', color="#8751d6", what_color="#b678ec")
+  $ Kff = Character(u'Подружка 2', color="#8751d6", what_color="#c793f4")
 
 label start:
 
@@ -27,4 +27,5 @@ label start:
  "А может она тоже просто прикидывается?"
  Kf "..."
 return
+
 
