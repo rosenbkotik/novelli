@@ -1,4 +1,5 @@
 init: 
+  $ u = Character(u'Я', color="#9751d6", what_color="#98c8f0")
   $ Ak = Character(u'Акина', color="#9751d6", what_color="#98c8f0")
   $ An = Character(u'Аника', color="#8751d6", what_color="#0a5491")
   $ K = Character(u'Карин', color="#8751d6", what_color="#d41818")
@@ -36,6 +37,7 @@ label start:
  "А может она тоже просто прикидывается?"
  Kf "..."
 return
+
 
 
 
